@@ -54,9 +54,11 @@ A restaurant platform with digital menu, ordering system & admin panel.
 
 ## 📫 Contact
 
-📧 Email: your.email@example.com  
-📄 [View My Resume](https://drive.google.com/file/d/1Umf9xR8zg9DKyqO4OR1UkvLm2CBJs43X/view?usp=sharing)  
-🔗 [GitHub](https://github.com/Asif-Abdullah01)
+📧 Email: asifabdullah214365@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/asif-abdullah-90678a230/)  
+📄 <a href="https://drive.google.com/file/d/1Umf9xR8zg9DKyqO4OR1UkvLm2CBJs43X/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 
 ---
 
