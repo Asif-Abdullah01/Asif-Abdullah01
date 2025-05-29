@@ -45,21 +45,4 @@ A restaurant platform with digital menu, ordering system & admin panel.
 
 ---
 
-## 📊 GitHub Stats
-
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asif-Abdullah01&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Abdullah01&layout=compact&theme=radical)
-
----
-
-## 📫 Contact
-
-📧 Email: asifabdullah214365@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/asif-abdullah-90678a230/)  
-📄 <a href="https://drive.google.com/file/d/1Umf9xR8zg9DKyqO4OR1UkvLm2CBJs43X/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-
----
-
 _Thanks for visiting! Let's build something awesome together! 🚀_
