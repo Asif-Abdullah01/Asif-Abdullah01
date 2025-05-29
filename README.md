@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Asif Abdullah
 
-I'm a passionate **MERN Stack Developer** from Bangladesh 🇧🇩  
-I love building responsive web apps with clean UI and smooth user experience.  
+I'm a passionate **MERN Stack Developer** from **Bangladesh 🇧🇩**  
+I love crafting clean, responsive, and user-friendly web applications that deliver smooth and intuitive user experiences.  
+Currently pursuing my B.Sc. in CSE at **BUBT**, and continuously building full-stack projects to sharpen my skills.
 
 ---
 
@@ -45,4 +46,10 @@ A restaurant platform with digital menu, ordering system & admin panel.
 
 ---
 
-_Thanks for visiting! Let's build something awesome together! 🚀_
+## 📬 Let's Connect!
+
+- 📧 Email: [asifabdullah214365@gmail.com](mailto:asifabdullah214365@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/asif-abdullah-90678a230](https://www.linkedin.com/in/asif-abdullah-90678a230/)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1Umf9xR8zg9DKyqO4OR1UkvLm2CBJs43X/view?usp=sharing)
+
+_Thanks for visiting! Let’s build something awesome together! 🚀_
